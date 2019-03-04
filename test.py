@@ -1,3 +1,5 @@
+#Source site: https://engmrk.com/alexnet-implementation-using-keras/
+
 # (1) Importing dependency
 import keras
 from keras.models import Sequential
